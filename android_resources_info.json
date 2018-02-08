@@ -1,0 +1,12 @@
+{
+    "media": {
+        "android_common_script.js": {
+            "version": 1.0,
+            "url": "https://browser.coccoc.com/js/android_common_script.js"
+        },
+        "android_youtube_script.js": {
+            "version": 1.0,
+            "url": "https://browser.coccoc.com/js/android_youtube_script.js"
+        }
+    }
+}
